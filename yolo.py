@@ -1,19 +1,4 @@
 '''
-PRE-REQUISITES:
-
-Install the packages:
-
-I am using opencv 3.4.2, intall it by using the below command. Use the same opencv version
-pip install opencv-python==3.4.2
-
-We also need numpy
-pip install numpy
-
-Install argparse
-pip install argparse
-
-Download the files from the below URLs and have it inside the folder yolo-coco:
-
 https://github.com/pjreddie/darknet/blob/master/data/coco.names
 https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
 https://pjreddie.com/media/files/yolov3.weights
